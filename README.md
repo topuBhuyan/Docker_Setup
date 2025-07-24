@@ -1,5 +1,6 @@
 ### `🐋` Docker_Setup `🚀`
-![Build](https://img.shields.io/) 
+![Build](<img width="547" height="293" alt="docker" src="https://github.com/user-attachments/assets/387fe50b-9815-47a4-b2f4-c25f3f89df94" />
+) 
 ```
  Step_1 `✅`
  
