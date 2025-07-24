@@ -33,5 +33,5 @@ Step_5 `✅`
 docker version
 
 ```
-`![version check ](<img width="547" height="293" alt="docker" src="https://github.com/user-attachments/assets/bb6d07c6-fcc5-4fa7-a118-76cc07f07e2e" />
-)` 
+<img width="547" height="293" alt="docker" src="https://github.com/user-attachments/assets/d92e661b-2234-4636-9770-dfeb35e98db7" />
+
