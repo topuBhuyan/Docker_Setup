@@ -1,4 +1,4 @@
-### `🚀` Docker_Setup 
+### `🐋` Docker_Setup `🚀`
 
 ```
  Step_1 `✅`
@@ -33,5 +33,5 @@ Step_5 `✅`
 docker version
 
 ```
-<img width="547" height="293" alt="docker" src="https://github.com/user-attachments/assets/d92e661b-2234-4636-9770-dfeb35e98db7" />
+<img width="600" height="293" alt="docker" src="https://github.com/user-attachments/assets/d92e661b-2234-4636-9770-dfeb35e98db7" />
 
