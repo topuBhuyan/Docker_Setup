@@ -1,6 +1,6 @@
 ### `🚀` Docker_Setup `✅` 
 
-`
+```
  Step_1: 
  
   echo \
@@ -28,4 +28,4 @@ Step_5
 
 docker version
 
-`
+```
